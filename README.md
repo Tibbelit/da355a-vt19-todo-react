@@ -1,3 +1,33 @@
+# Kom igång
+
+## Förberedelser:
+
+Installera följande:
+- [Node.js](https://nodejs.org/en/)
+- [NPM](https://www.npmjs.com/)
+
+## Kom igång med Todo-projektet
+
+1. Klona detta repo till valfri mapp genom:
+```bash
+git clone https://github.com/Tibbelit/da355a-vt19-todo-react.git
+```
+2. Navigera till det nerklonade repot genom:
+```bash
+cd da355a-vt19-todo-react
+```
+3. Installera alla beroende till Angular genom:
+```bash
+npm install
+```
+4. Starta utvecklingsservern genom:
+```bash
+npm start
+```
+5. Surfa in till `localhost:3000` genom din webbläsare.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
